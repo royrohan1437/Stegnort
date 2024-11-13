@@ -1,0 +1,19 @@
+cd to that directory 
+
+
+Create a Python virtual enviroinment : 
+
+-> python -m venv .venv
+
+
+activate the virtual env :
+
+-> source .venv/bin/activate
+
+install streamlit:  
+
+-> pip install streamlit opencv-python numpy
+
+rum thw web app :
+
+-> streamlit rum webapp.py
